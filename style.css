@@ -128,3 +128,11 @@ a:active {
     background-color: #bec903;
     color: white;
 }
+
+
+/* achievers.html */
+
+#achievers {
+    font-size: 1.5rem;
+    list-style-type: none;
+}
